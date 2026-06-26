@@ -68,9 +68,9 @@ This was made with the help of LLM.
 
 The project was written and refined with GLM5.2 with reasoning enabled.
 
-I did know exactly what I wanted I just couldn't be bothered to write it myself, I know how to use pandoc, the rest was just fiddly I had no interest in learning. I made the LLM do exactly what I wanted, and then I tweaked a lot of it by hand. There was a LOT of back and forth, and a lot of "human" work, but this is, at its core still a project made using LLMs.
+I did know exactly what I wanted I just couldn't be bothered to write it myself, I know how to use pandoc, the rest was just fiddly base64 handling I had no interest in learning. I made the LLM do exactly what I wanted, and then I tweaked some of it by hand. There was a LOT of back and forth, and a lot of "human" work, but this is, at its core still a project made using LLMs.
 
-All testing was made by a Human.
+All testing was done and validated by a Human.
 
 It took me around 3 hours of work (minimum).
 
