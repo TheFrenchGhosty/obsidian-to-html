@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 VAULT_DIR="./my_vault"
 OUTPUT_DIR="./output"

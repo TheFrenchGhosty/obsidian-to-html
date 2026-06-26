@@ -1,6 +1,6 @@
-# obsidian-to-html
+# Obsidian to HTML
 
-Take an Obsidian vault and turn it into HTML where each HTML file is self-contained (for easy sharing).
+Take an Obsidian vault (or a folder of markdown that follows the same kind of structure - Joplin, Zettlr and more) and turn it into HTML where each HTML file is self-contained (for easy sharing).
 
 ## Features
 
