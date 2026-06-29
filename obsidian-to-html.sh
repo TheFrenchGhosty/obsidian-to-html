@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+#
+# TheFrenchGhosty's Obsidian to HTML
+# https://github.com/TheFrenchGhosty/obsidian-to-html
+# https://github.com/TheFrenchGhosty
+# https://thefrenchghosty.me
+#
 
 VAULT_DIR="./my_vault"
 OUTPUT_DIR="./output"

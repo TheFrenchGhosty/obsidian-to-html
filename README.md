@@ -20,7 +20,7 @@ Take an Obsidian vault (or a folder of markdown that follows the same kind of st
 
 ## Usage
 
-1. Edit the paths at the top of `script.sh`:
+1. Edit the paths at the top of `obsidian-to-html.sh`:
 
    ```bash
    VAULT_DIR="./my_vault"
@@ -30,7 +30,7 @@ Take an Obsidian vault (or a folder of markdown that follows the same kind of st
 2. Run the script:
 
    ```bash
-   ./script.sh
+   ./obsidian-to-html.sh
    ```
 
 3. Open `./output/index.html` in your browser, or share any individual `.html` file.
